@@ -7346,6 +7346,7 @@ function dibujarImagenContain(img, obj, sx, sy, alphaImg, escala) {
   noTint();
 
   pop();
+```
 }
 
 ```
