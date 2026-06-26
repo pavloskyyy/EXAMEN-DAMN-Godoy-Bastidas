@@ -55,7 +55,7 @@ en el quinto estado se ve el crecimiento de kendrick tanto como persona y fisica
 el el sexto estado se ve los problemas con su padre y la ausencia de este durante su crecimiento (DUCKWORTH)
 
 ```
-// DAMN. LIBRO INTERACTIVO - Barbara Herbabdez - Pablo Godoy - Agustin Bastidas - Angela Bagnara. 
+// DAMN. LIBRO INTERACTIVO - Pablo Godoy - Agustin Bastidas.
 
 
 let pagina = 0;
