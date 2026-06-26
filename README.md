@@ -977,7 +977,7 @@ function dividirTextoEnLineas(txt, anchoMax) {
 let baseW = 818;
 let baseH = 460;
 
-<<<<<<< HEAD
+``` HEAD
 // -------------------------------
 // IMÁGENES
 // -------------------------------
